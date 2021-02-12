@@ -1,4 +1,4 @@
-<MPD type="static" maxSegmentDuration="PT5.000S" profiles="urn:mpeg:dash:profile:isoff-live:2011" xmlns:sea="urn:mpeg:dash:schema:sea:2012" mediaPresentationDuration="PT0H0M25.428S" minBufferTime="PT4.500S" xmlns="urn:mpeg:DASH:schema:MPD:2011">
+<MPD type="static" maxSegmentDuration="PT5.000S" profiles="urn:mpeg:dash:profile:isoff-live:2011" xmlns:sea="urn:mpeg:dash:schema:sea:2012" mediaPresentationDuration="PT0H0M50.856S" minBufferTime="PT4.500S" xmlns="urn:mpeg:DASH:schema:MPD:2011">
     <BaseURL>https://southcentralus1-mediad.svc.ms/transform/</BaseURL>
     <Period id="0" start="PT0.0S">
         <AdaptationSet id="0" contentType="audio" mimeType="audio/mp4" segmentAlignment="true" bitstreamSwitching="true" codecs="mp4a.40.2">
